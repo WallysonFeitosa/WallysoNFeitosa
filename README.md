@@ -12,17 +12,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallysonFeitosa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Wallyson-pic" height="125" style="border-radius:50px;"src="https://i.picasion.com/pic92/919c0bd453abd1a5664387a1dcfe4541.gif" width="125" height="150">
+  <img align="center" alt="Wallys-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wally-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Wallys-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Wally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Wallyson-pic" height="150" style="border-radius:30px;"src="https://i.picasion.com/pic92/919c0bd453abd1a5664387a1dcfe4541.gif" width="150" height="150">
 </div>
   
   ##
  
 <div> 
-  <a href="https://instagram.com/khada_wallyson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-  badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/khada_wallyson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wallyson_fds@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wallyson-feitosa-04107924b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
