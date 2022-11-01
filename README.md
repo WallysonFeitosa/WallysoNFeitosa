@@ -16,7 +16,7 @@
   <img align="center" alt="Wallyson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Wallyson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wallyson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Wallyson-pic" height="150" style="border-radius:50px;"src="https://i.picasion.com/pic92/919c0bd453abd1a5664387a1dcfe4541.gif" width="150" height="150">
+  <img align="right" alt="Wallyson-pic" height="125" style="border-radius:50px;"src="https://i.picasion.com/pic92/919c0bd453abd1a5664387a1dcfe4541.gif" width="125" height="150">
   
   ##
   
